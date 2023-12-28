@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arunkumar M</h1>
 <h3 align="center">I am an aspiring Python Full Stack Developer</h3>
 
-<p align="left"> <img src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg" alt="arunpython40" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunpython40" alt="arunpython40" /></a> </p>
-
 - 🔭 I’m currently **Fresher**
 
 - 🌱 I’m currently learning **Django**
 
 - 👯 I’m seeking to **job**
 
-- 🤝 I’m looking for help with **linkedi**
+- 🤝 I’m looking for help with **linkedin**
 
 - 💬 Ask me about **Python , MYSQL , DJANGO**
 
@@ -32,8 +28,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Arunpython40"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Arunpython40" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunpython40&show_icons=true&locale=en&layout=compact" alt="arunpython40" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunpython40&show_icons=true&locale=en" alt="arunpython40" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunpython40&" alt="arunpython40" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunpython40&show_icons=true&locale=en&layout=compact" alt="arunpython40" /></p>
