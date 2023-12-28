@@ -1,13 +1,25 @@
 <h1 align="center">Hi 👋, I'm Arunkumar M</h1>
 <h3 align="center">I am an aspiring Python Full Stack Developer</h3>
 
-<p align="left"> <img src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg" /> </p>
+<p align="left"> <img src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg" alt="arunpython40" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunpython40" alt="arunpython40" /></a> </p>
+
+- 🔭 I’m currently **Fresher**
+
+- 🌱 I’m currently learning **Django**
+
+- 👯 I’m seeking to **job**
+
+- 🤝 I’m looking for help with **linkedi**
+
+- 💬 Ask me about **Python , MYSQL , DJANGO**
 
 - 📫 How to reach me **arunkumarpython40@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Yh8gClFfwZgmNqe-vIPZu5adrHr_ht1L/view?usp=sharing](https://drive.google.com/file/d/1Yh8gClFfwZgmNqe-vIPZu5adrHr_ht1L/view?usp=sharing)
+
+- ⚡ Fun fact **I am a intovert person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
