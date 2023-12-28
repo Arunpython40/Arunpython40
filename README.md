@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arunkumar M</h1>
 <h3 align="center">I am an aspiring Python Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunpython40&label=Profile%20views&color=0e75b6&style=flat" alt="arunpython40" /> </p>
+<p align="left"> <img src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunpython40" alt="arunpython40" /></a> </p>
 
